@@ -6,8 +6,8 @@ DIPITA TASNIM
 
 - 🌱 I’m currently learning JavaScript and working on database projects.
 - 🔭 Projects: [Job Site](https://github.com/dipita-tasnim/370_Project),
--               [Classroom Grading System](https://github.com/dipita-tasnim/341_project),
--               [Tic-Tac-Toe](https://github.com/dipita-tasnim/javaScript/tree/main/project_TicTacToe)
+- [Classroom Grading System](https://github.com/dipita-tasnim/341_project),
+- [Tic-Tac-Toe](https://github.com/dipita-tasnim/javaScript/tree/main/project_TicTacToe)
 - 💻 Interned at: Algorizin (Job Finder for international students)
 - 🎓 Studying CSE at BRAC University.
 
