@@ -14,5 +14,5 @@ DIPITA TASNIM
 
  Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/dipita-tasnim/)
-- [Email](tasnim.dipita@gmail.com)
+- tasnim.dipita@gmail.com
 
