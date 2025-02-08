@@ -4,7 +4,7 @@ DIPITA TASNIM
 
 | Python, PHP, MySQL
 
-- 🌱 I’m currently learning JavaScript and working on database projects.
+- 🌱 I’m currently learning MERN and working on database projects.
 - 🔭 Projects:  #[Job Site](https://github.com/dipita-tasnim/370_Project),
                  #[Classroom Grading System](https://github.com/dipita-tasnim/341_project),
                  #[Tic-Tac-Toe](https://github.com/dipita-tasnim/javaScript/tree/main/project_TicTacToe)
