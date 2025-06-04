@@ -6,8 +6,8 @@ DIPITA TASNIM
 
  🔭 Projects:
  
-                 #[Cholo Shobai](https://github.com/dipita-tasnim/CholoShobai)
-                 #[ReMedAI](https://github.com/dipita-tasnim/ReMedAI),
+       -#[Cholo Shobai](https://github.com/dipita-tasnim/CholoShobai),
+       -#[ReMedAI](https://github.com/dipita-tasnim/ReMedAI),
                  #[Job Site](https://github.com/dipita-tasnim/370_Project),
                  #[Classroom Grading System](https://github.com/dipita-tasnim/341_project),
                  #[Tic-Tac-Toe](https://github.com/dipita-tasnim/javaScript/tree/main/project_TicTacToe)
