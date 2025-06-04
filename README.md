@@ -5,7 +5,6 @@ DIPITA TASNIM
 | JavaScript, Python, PHP, MySQL
 
  🔭 Projects:
- 
 1. [Cholo Shobai](https://github.com/dipita-tasnim/CholoShobai)
 2. [ReMedAI](https://github.com/dipita-tasnim/ReMedAI)
 3. [Job Site](https://github.com/dipita-tasnim/370_Project)
