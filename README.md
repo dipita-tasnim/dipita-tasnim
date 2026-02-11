@@ -1,6 +1,6 @@
 Welcome to My Profile 👋
 
-DIPITA TASNIM  ||  JavaScript, Python, PHP, MySQL
+DIPITA TASNIM  ||  JavaScript, C, Python, PHP, MySQL
 
  🔭 Projects:
 1. [Cholo Shobai](https://github.com/dipita-tasnim/CholoShobai)
