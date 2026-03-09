@@ -19,7 +19,7 @@ DIPITA TASNIM  ||  JavaScript, C, Python, PHP, MySQL
 - 💻 Interned at: Algorizin (Job Finder for international students)
 - 🎓 Studying CSE at BRAC University.
 
- Get in Touch
+ Contact:
 - [LinkedIn](https://www.linkedin.com/in/dipita-tasnim/)
 - tasnim.dipita@gmail.com
 
