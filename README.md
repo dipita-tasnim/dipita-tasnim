@@ -6,7 +6,7 @@ DIPITA TASNIM  ||  JavaScript, C, Python, PHP, MySQL, MERN
 1. [NagarDarpan](https://github.com/dipita-tasnim/NagarDarpan)
 2. [CholoShobai](https://github.com/dipita-tasnim/CholoShobai)
 3. [ReMedAI](https://github.com/dipita-tasnim/ReMedAI)
-4. [BizPilot](https://github.com/nusaibuhh/BizPilot)
+4. [BizPilot](https://github.com/dipita-tasnim/BizPilot)
 5. [Job Site](https://github.com/dipita-tasnim/370_Project)
 6. [Currency Converter](https://github.com/dipita-tasnim/javaScript/tree/main/project_CurrencyConverter)
 7. [Tic-Tac-Toe](https://github.com/dipita-tasnim/javaScript/tree/main/project_TicTacToe)
