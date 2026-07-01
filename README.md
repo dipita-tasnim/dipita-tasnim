@@ -3,8 +3,8 @@ Welcome to My Profile
 DIPITA TASNIM  ||  JavaScript, C, Python, PHP, MySQL, MERN
 
  🔭 Projects:
-1. [NagarDarpan](https://github.com/dipita-tasnim/NagarDarpan)
-2. [CholoShobai](https://github.com/dipita-tasnim/CholoShobai)
+1. [NagarDarpan](https://github.com/dipita-tasnim/NagarDarpan) [Deployed]
+2. [CholoShobai](https://github.com/dipita-tasnim/CholoShobai) [Deployed]
 3. [BizPilot](https://github.com/dipita-tasnim/BizPilot)
 4. [ReMedAI](https://github.com/dipita-tasnim/ReMedAI)
 5. [Messy Food Waste Prediction](https://github.com/dipita-tasnim/Machine_Learning)
